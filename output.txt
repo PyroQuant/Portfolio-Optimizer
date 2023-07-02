@@ -1,0 +1,116 @@
+[                       0%                       ][*******************   40%                       ]  2 of 5 completed[**********************60%****                   ]  3 of 5 completed[**********************80%*************          ]  4 of 5 completed[*********************100%***********************]  5 of 5 completed
+
+
+========================================================================================================
+
+
+Pesos del portafolio óptimo para CVaR:
+
+
+AAPL: 20.00%
+MSFT: 13.11%
+GOOG: 37.89%
+AMZN: prácticamente 0%
+META: 29.00%
+
+
+Estadísticas descriptivas del portafolio óptimo para CVaR:
+
+
+Retorno anualizado: 18.20
+Volatilidad anualizada: 29.04
+Skewness: -16.47
+Kurtosis: 423.41
+Max Drawdown: -37.97
+Conteo de datos: 1258.00
+Sharpe Ratio: 62.65
+CVaR: 65.97
+Ratio Sortino: 83.51
+Varianza: 8.43
+
+
+========================================================================================================
+
+
+Pesos del portafolio óptimo para Sortino:
+
+
+AAPL: 53.42%
+MSFT: prácticamente 0%
+GOOG: prácticamente 0%
+AMZN: prácticamente 0%
+META: 46.58%
+
+
+Estadísticas descriptivas del portafolio óptimo para Sortino:
+
+
+Retorno anualizado: 25.96
+Volatilidad anualizada: 30.47
+Skewness: -9.89
+Kurtosis: 592.26
+Max Drawdown: -29.86
+Conteo de datos: 1258.00
+Sharpe Ratio: 85.19
+CVaR: 76.09
+Ratio Sortino: 115.20
+Varianza: 9.29
+
+
+========================================================================================================
+
+
+Pesos del portafolio óptimo para Variance:
+
+
+AAPL: 21.06%
+MSFT: 12.34%
+GOOG: 35.93%
+AMZN: prácticamente 0%
+META: 30.66%
+
+
+Estadísticas descriptivas del portafolio óptimo para Variance:
+
+
+Retorno anualizado: 18.61
+Volatilidad anualizada: 29.04
+Skewness: -16.38
+Kurtosis: 435.28
+Max Drawdown: -37.61
+Conteo de datos: 1258.00
+Sharpe Ratio: 64.08
+CVaR: 66.37
+Ratio Sortino: 85.38
+Varianza: 8.43
+
+
+========================================================================================================
+
+
+Pesos del portafolio óptimo para Sharpe:
+
+
+AAPL: 52.41%
+MSFT: prácticamente 0%
+GOOG: prácticamente 0%
+AMZN: prácticamente 0%
+META: 47.59%
+
+
+Estadísticas descriptivas del portafolio óptimo para Sharpe:
+
+
+Retorno anualizado: 25.95
+Volatilidad anualizada: 30.44
+Skewness: -9.89
+Kurtosis: 595.64
+Max Drawdown: -29.87
+Conteo de datos: 1258.00
+Sharpe Ratio: 85.23
+CVaR: 76.02
+Ratio Sortino: 115.23
+Varianza: 9.27
+
+
+========================================================================================================
